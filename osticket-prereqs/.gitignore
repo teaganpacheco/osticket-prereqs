@@ -1,0 +1,10 @@
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.env
+.env
+*.key
+*.pem
+credentials*
+secrets*
